@@ -1,0 +1,282 @@
+repo_name: Achufam24/wa_status_saver
+report_id: bf13c899bc3a11279c3988e2a0844339
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-17T09:05:44+00:00'
+requested_by: Mastersam07
+provider: github
+branch: master
+detected_tools_count: 21
+tools:
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  version: '33.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/android/app/build.gradle
+  detection_source: android/app/build.gradle
+  last_updated_by: Mastersam
+  last_updated_on: 2020-01-03 17:15:35.000000000 Z
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Mastersam07
+  last_updated_on: 2022-08-11 03:08:07.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/android/app/build.gradle
+  detection_source: android/app/build.gradle
+  last_updated_by: Mastersam
+  last_updated_on: 2020-01-03 17:15:35.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  version: '13.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/android/app/build.gradle
+  detection_source: android/app/build.gradle
+  last_updated_by: Mastersam
+  last_updated_on: 2020-01-03 17:15:35.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/ios/Podfile.lock
+  detection_source: ios/Podfile.lock
+  last_updated_by: Mastersam07
+  last_updated_on: 2022-08-11 00:29:54.000000000 Z
+- name: chewie
+  description: A video player for Flutter with Cupertino and Material play controls
+  package_url: https://pub.dartlang.org/chewie
+  version: 1.3.4
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Mastersam07
+  last_updated_on: 2022-08-11 03:08:07.000000000 Z
+- name: cupertino_icons
+  description: Default icons asset for Cupertino widgets based on Apple styled icons
+  package_url: https://pub.dartlang.org/cupertino_icons
+  version: 1.0.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Mastersam07
+  last_updated_on: 2022-08-11 03:08:07.000000000 Z
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Mastersam07
+  last_updated_on: 2022-08-11 03:08:07.000000000 Z
+- name: flutter_html
+  description: A Flutter widget for rendering static HTML and CSS as Flutter widgets
+  package_url: https://pub.dartlang.org/flutter_html
+  version: 2.2.1
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Mastersam07
+  last_updated_on: 2022-08-11 03:08:07.000000000 Z
+- name: flutter_launcher_icons
+  description: A package which simplifies the task of updating your Flutter app's
+    launcher icon
+  package_url: https://pub.dartlang.org/flutter_launcher_icons
+  version: 0.10.0
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Mastersam07
+  last_updated_on: 2022-08-11 03:08:07.000000000 Z
+- name: flutter_staggered_grid_view
+  description: Provides a collection of Flutter grids layouts
+  package_url: https://pub.dartlang.org/flutter_staggered_grid_view
+  version: 0.6.2
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Mastersam07
+  last_updated_on: 2022-08-11 03:08:07.000000000 Z
+- name: provider
+  description: A wrapper around InheritedWidget to make them easier to use and more
+    reusable
+  package_url: https://pub.dartlang.org/provider
+  version: 6.0.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Mastersam07
+  last_updated_on: 2022-08-11 03:08:07.000000000 Z
+- name: video_thumbnail
+  description: A flutter plugin for creating a thumbnail from a local video file or
+    from a video URL
+  package_url: https://pub.dartlang.org/video_thumbnail
+  version: 0.5.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Mastersam07
+  last_updated_on: 2022-08-11 03:08:07.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: '4.12'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/android/app/build.gradle
+  detection_source: android/app/build.gradle
+  last_updated_by: Mastersam
+  last_updated_on: 2020-01-03 17:15:35.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: org.jetbrains.kotlin:kotlin-stdlib-jdk7
+  description: Kotlin Standard Library JDK 7 extension
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Achufam24/wa_status_saver/blob/master/android/app/build.gradle
+  detection_source: android/app/build.gradle
+  last_updated_by: Mastersam
+  last_updated_on: 2020-01-03 17:15:35.000000000 Z
